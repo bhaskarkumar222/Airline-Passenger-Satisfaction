@@ -4,7 +4,8 @@
 
 This project is an **interactive Power BI dashboard** that analyzes **airline passenger satisfaction** using real data. It helps understand key factors like **travel class, flight distance, departure delays and customer type** that impact satisfaction levels. The dashboard provides **clear visual insights** to support **better decision-making** for airline management. The goal is to identify trends, improve customer experience, and enhance service quality.
 
-![image alt](https://github.com/bhaskarkumar222/Airline-Passenger-Satisfaction/blob/bd7cd8598f349a2c3da5aea093356dee5e0d2f25/Image/download.gif)
+<img src="https://github.com/bhaskarkumar222/Airline-Passenger-Satisfaction/blob/bd7cd8598f349a2c3da5aea093356dee5e0d2f25/Image/download.gif" alt="Sales Analysis Dashboard" width="1000" height="350"/>
+
 
 ## Situation
 Airlines aim to improve customer experience by analyzing passenger satisfaction based on factors like class, travel type, age group, gender, and flight distance. The goal is to identify trends and optimize services to enhance passenger experience.
